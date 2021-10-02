@@ -1,4 +1,4 @@
-# Hello everyone👋 I am Tanisha Priya
+# Hello everyone👋 I am Tanisha Priya🙋‍♀️
 
 
 I am from Nsec cse 1st year
@@ -18,7 +18,7 @@ I am from Nsec cse 1st year
 <img src="https://img.icons8.com/bubbles/50/000000/kolkata.png"/>
 
 
-##Intrested to learn
+## Intrested to learn👩‍💻
 |s.no|courses|
 |---|---|
 | 1| App development|
@@ -27,13 +27,14 @@ I am from Nsec cse 1st year
 | 4| java|
 | 5| python|
 
-##Languages 
+## Languages 
 
 -Hindi
 
 -English
 
-##Here is my github account
+## Here is my github account
+
 [click here](https://github.com/Tanishapriya28)
 
 
