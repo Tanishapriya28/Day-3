@@ -18,7 +18,7 @@ I am from Nsec cse 1st year
 <img src="https://img.icons8.com/bubbles/50/000000/kolkata.png"/>
 
 
-## Intrested to learn👩‍💻
+## Intrested to learn 👩‍💻
 |s.no|courses|
 |---|---|
 | 1| App development|
